@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛母般泥洹經
+#+DATE: 2015-08-30 19:32:56.278288
+#+PROPERTY: JUAN 0
