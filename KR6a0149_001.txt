@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:56.100312
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:46
 #+TITLE: 佛母般泥洹經
 #+PROPERTY: CBETA_ID T02n0145
 #+PROPERTY: ID KR6a0149
